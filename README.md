@@ -18,6 +18,8 @@ My primary engineering interests lie in **Aerospace Engineering**, specifically 
 ### 2. High-Speed FPV Drone Chassis
 * **Description:** Designed custom frame geometry and component mounting solutions for a high-speed First Person View (FPV) drone. 
 * **Key Engineering:** Integrated mounting logic for an ESP32 flight controller and a Caddx Ant FPV camera, optimising for weight distribution and aerodynamic profile.
+* **Design Images(Early Development Images Included)** 
+<img width="697" height="585" alt="image" src="https://github.com/user-attachments/assets/f0db8a02-1425-44cc-80a1-4d8ed0e6f85a" />
 * **Status:** [Prototyping]
 
 
