@@ -21,6 +21,7 @@ My primary engineering interests lie in **Aerospace Engineering**, specifically 
 * **Design Images(Early Development Images Included)** 
 <img width="697" height="585" alt="image" src="https://github.com/user-attachments/assets/f0db8a02-1425-44cc-80a1-4d8ed0e6f85a" />
 
+(Img D1: Proportion Issues in Drone Prototyping)
 * **Status:** [Prototyping]
 
 
