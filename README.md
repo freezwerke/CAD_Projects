@@ -31,7 +31,7 @@ My primary engineering interests lie in **Aerospace Engineering**, specifically 
 
 (Img D3: Proportion Issues Solved during Prototyping)
 
-<img width="768" height="472" alt="image" src="https://github.com/user-attachments/assets/b9140799-f3a3-44fe-8e05-48da19b237a5" />
+<img width="716" height="464" alt="image" src="https://github.com/user-attachments/assets/44ad8e58-e33b-49bd-b011-977a3d792454" />
 
 (Img D4: Finalized Quadcopter Model v1.0)
 * **Status:** [Prototyping]
