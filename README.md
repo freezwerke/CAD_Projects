@@ -35,6 +35,16 @@ My primary engineering interests lie in **Aerospace Engineering**, specifically 
 
 (Img D4: Finalized Base model v1.0)
 
+<img width="507" height="287" alt="Screenshot 2026-10-09 182346" src="https://github.com/user-attachments/assets/ef0fb2c5-eebc-47d1-b4ab-064ab419f2d7" />
+
+<img width="443" height="290" alt="Screenshot 2026-10-09 182328" src="https://github.com/user-attachments/assets/78f214ae-d966-4c0e-9dc4-3911d7640a40" />
+
+<img width="427" height="280" alt="Screenshot 2026-10-09 182318" src="https://github.com/user-attachments/assets/79e3d883-2ed1-4833-9e31-726a7ef29239" />
+
+(Img D5: Revised Model Based on advice from professionals)
+
+
+
 * **Status:** [Prototyping — Thermal Control]
 
 
